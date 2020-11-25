@@ -43,7 +43,7 @@ $tweaks = @(
 	"DebloatAll",
 
 	### Privacy Tweaks ###
-	"DisableTelemetry",             # "EnableTelemetry",
+	"EnableTelemetry",             # "EnableTelemetry",
 	"DisableWiFiSense",             # "EnableWiFiSense",
 	"DisableSmartScreen",         # "EnableSmartScreen",
 	"DisableWebSearch",             # "EnableWebSearch",
